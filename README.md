@@ -52,7 +52,7 @@ Description: The 52 cards game to play in the termianal against the computer.
 ### [Three cup monte] - Python
 Description: Are you gonna find the ball?
 - [Repository](https://github.com/CoquardBalthazar/three-cup-monte-py)
-![Screenshot](https://github.com/CoquardBalthazar/three-cup-monte-py/blob/main/Screenshot-three-cup-monte.png)
+- ![Screenshot](https://github.com/CoquardBalthazar/three-cup-monte-py/blob/main/Screenshot-three-cup-monte.png)
 
 
 ## Contact
