@@ -42,17 +42,20 @@ Description: Use of Microsoft Power Apps, Power Automate, Sharepoint, ... to aut
 ### [Tic Tac Toe] - Python
 Description: The well known Tic Tac Toe game, to be played in the terminal.
 - [Repository](https://github.com/CoquardBalthazar/tic-tac-toe-py)
+
 ![Screenshot](https://github.com/CoquardBalthazar/tic-tac-toe-py/blob/main/Screenshot-tic-tac-toe.png)
 
 ### [War game] - Python (Object Oriented Programming)
 Description: The 52 cards game to play in the termianal against the computer.
 - [Repository](https://github.com/CoquardBalthazar/war-game-py)
+
 ![Screenshot](https://github.com/CoquardBalthazar/war-game-py/blob/main/Screenshot-war-game.png)
 
 ### [Three cup monte] - Python
 Description: Are you gonna find the ball?
 - [Repository](https://github.com/CoquardBalthazar/three-cup-monte-py)
-- ![Screenshot](https://github.com/CoquardBalthazar/three-cup-monte-py/blob/main/Screenshot-three-cup-monte.png)
+
+![Screenshot](https://github.com/CoquardBalthazar/three-cup-monte-py/blob/main/Screenshot-three-cup-monte.png)
 
 
 ## Contact
